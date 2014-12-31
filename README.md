@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-learning purpose
+Hi Humans,
+
+I'm learning GitHub
